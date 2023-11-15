@@ -12,6 +12,7 @@ Skills:  JS / REACT / JS / HTML / CSS/MONGO DB
 <br/>
 <hr/>
 <img src='https://www.codewars.com/users/Deepankar@1994/badges/large'>
+<hr/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DEEPANKARTIWARI)](https://github.com/ryo-ma/github-profile-trophy)
 
