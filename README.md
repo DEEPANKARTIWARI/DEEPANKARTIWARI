@@ -3,7 +3,7 @@
 I'm software engineer who is passionate about creating responsive web apps and websites.
 
 
-Skills:  JS / REACT / JS / HTML / CSS/MONGO DB
+Skills:  JS / REACT  / HTML / CSS/MONGO DB
 
 - 🌱 I’m currently learning NODE 
 
